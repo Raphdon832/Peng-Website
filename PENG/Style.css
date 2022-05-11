@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.word{
+    color: rgb(255, 255, 255);
+    font-family: 'Poppins';
+    margin-left: 45rem;
+    margin-right: 40rem;
+}
+
+.logo{
+    /* width: 20rem;
+    height: 20rem;*/
+    /* margin-left: 40rem;
+    margin-right: 40rem; */
+    position: center;
+    margin-top: 10rem;
+    width: 552.17px;
+    height: 343px;
+    /* left: 684px;
+    top: 536px; */
+}
+
+.comingSoon{
+    position: center;
+    width: 300px;
+    height: 72px;
+}
